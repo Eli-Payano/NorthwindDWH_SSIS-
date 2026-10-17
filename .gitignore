@@ -1,0 +1,7 @@
+#archivos a ignorar
+
+.suo
+Carga_de_dimensiones_del_almacen_de_dattos.dtproj.user
+BuildLog.xml
+DocumentLayout.json
+DocumentLayout.backup.json
